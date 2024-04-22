@@ -726,7 +726,8 @@ ul.navbar-nav > li > a {
 }
 ul.navbar-nav > li:hover > a,
 ul.navbar-nav > li.active > a {
-  color: #ffb600 !important;
+  /* color: #ffb600 !important; */
+  color:#0052a5 !important;
 }
 
 /*-- Logo --*/
